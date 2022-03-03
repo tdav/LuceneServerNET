@@ -1,0 +1,1 @@
+﻿CreateIndex.exe -s http://localhost:15000  -i text_model1111 -sfield id	-f name	-primary id
